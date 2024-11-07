@@ -1,1 +1,2 @@
-# Art-Culture-Market-Place
+# Art-Culture-Market-Place (Full stack web development)
+Developed a dynamic online marketplace tailored for artists to showcase and sell their creations, aiming to foster cultural appreciation and provide artists with a platform to monetize their art. The website enables users to post listings of their artwork, which others can purchase directly, enhancing community engagement and supporting local economies. Leveraging the MERN stack and JavaScript, this project integrates seamless navigation, secure transactions, and an intuitive user interface to offer both artists and buyers a captivating and secure online experience.
